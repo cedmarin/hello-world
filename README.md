@@ -1,2 +1,4 @@
 # hello-world
-My fisrt project.
+This my fisrt GitHub project...
+So you now know this is only a test. 
+:)
